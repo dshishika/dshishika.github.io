@@ -11,7 +11,7 @@ author_profile: true
 
 Journal Publications
 ------
- * D. Shishika and D. A. Paley. “Mosquito-inspired quadrotor swarming and pursuit for cooperative defense against fast intruders,” Autonomous Robots, pp. 1-19, 2019.
+ * D. Shishika and D. A. Paley. “Mosquito-inspired quadrotor swarming and pursuit for cooperative defense against fast intruders,” <i>Autonomous Robots<i>, pp. 1-19, 2019.
 
 
 Refreed Conference Publications
