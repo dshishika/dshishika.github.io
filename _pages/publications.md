@@ -23,18 +23,29 @@ Journal Publications
 Refreed Conference Publications
 ------
 
- * <b>D. Shishika</b>, J. Paulos, M. A. Hsieh, and V. Kumar. “Team Composition for Perimeter Defense with Patrollers and Defenders,” <i>Accepted for presentation at IEEE Conference on Decision and Control</i>, France, 2019.
+ * <b>D. Shishika</b>, J. Paulos, M. A. Hsieh, and V. Kumar. 
+ “Team composition for perimeter defense with patrollers and defenders,” 
+ <i>Accepted for presentation at IEEE Conference on Decision and Control</i>, France, 2019.
 
  * J. Paulos, S. W. Chen, <b>D. Shishika</b>, and V. Kumar. 
- “Decentralization of Multiagent Policies by Learning What to Communicate,” <i>IEEE International Conference on Robotics and Automation</i>, Montreal, 2019.
+ “Decentralization of Multiagent Policies by Learning What to Communicate,” 
+ <i>IEEE International Conference on Robotics and Automation</i>, Montreal, 2019.
 
- * <b>D. Shishika</b>, V. Kumar. “Local-game decomposition for multiplayer perimeter-defense problem,” <i>IEEE Conference on Decision and Control</i>, pp. 2093-2100, Florida, 2018.
+ * <b>D. Shishika</b>, V. Kumar. 
+ “Local-game decomposition for multiplayer perimeter-defense problem,” 
+ <i>IEEE Conference on Decision and Control</i>, pp. 2093-2100, Florida, 2018.
 
- * <b>D. Shishika</b>, K. Sherman and D. A. Paley. “Competing swarms of autonomous vehicles: intruders versus guardians,” <i>ASME Dynamic Systems and Control Conference</i>, Virginia, 2017.
+ * <b>D. Shishika</b>, K. Sherman and D. A. Paley. 
+ “Competing swarms of autonomous vehicles: intruders versus guardians,” 
+ <i>ASME Dynamic Systems and Control Conference</i>, Virginia, 2017.
 
- * <b>D. Shishika</b> and D. A. Paley. “[Mosquito-inspired swarming for decentralized pursuit with autonomous vehicles](https://ieeexplore.ieee.org/abstract/document/7963071),” <i>IEEE American Control Conference</i>, pp. 923-929, Seattle, 2017.
+ * <b>D. Shishika</b> and D. A. Paley. 
+ “[Mosquito-inspired swarming for decentralized pursuit with autonomous vehicles](https://ieeexplore.ieee.org/abstract/document/7963071),”
+ <i>IEEE American Control Conference</i>, pp. 923-929, Seattle, 2017.
 
- * <b>D. Shishika</b>, J. K. Yim, and D. A. Paley. “Bio-inspired pursuit with autonomous hovercraft using Lyapunov-based control,” <i>IEEE American Control Conference</i>, pp. 3107-3113, Chicago, 2015.
+ * <b>D. Shishika</b>, J. K. Yim, and D. A. Paley. 
+ “Bio-inspired pursuit with autonomous hovercraft using Lyapunov-based control,” 
+ <i>IEEE American Control Conference</i>, pp. 3107-3113, Chicago, 2015.
 
  * <b>D. Shishika</b> and D. A. Paley. “Lyapunov stability analysis of a mosquito-inspired swarm model,” <i>IEEE Conference on Decision and Control</i>, pp. 482-488, Osaka Japan, 2015.
 
