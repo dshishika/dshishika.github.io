@@ -30,7 +30,7 @@ Journal Publications
 Refreed Conference Publications
 ------
 
- * <b>D. Shishika</b>, J. Paulos, M. A. Hsieh, and V. Kumar. 
+ * <b>D. Shishika</b>, J. Paulos, M. Dorothy, M. A. Hsieh, and V. Kumar. 
  “Team composition for perimeter defense with patrollers and defenders,” 
  <i>Accepted for presentation at IEEE Conference on Decision and Control</i>, France, 2019.
 
