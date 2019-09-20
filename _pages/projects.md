@@ -7,6 +7,8 @@ author_profile: true
 
 Coming soon... 
 
+<img src= "images/foo-bar-identity-th.jpg" alt = "samle image">
+
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %} -->
