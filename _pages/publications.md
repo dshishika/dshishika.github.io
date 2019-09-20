@@ -13,6 +13,10 @@ Journal Publications
 ------
  * D. Shishika and D. A. Paley. “Mosquito-inspired quadrotor swarming and pursuit for cooperative defense against fast intruders,” <i>Autonomous Robots<i>, pp. 1-19, 2019.
 
+ * D. Shishika, J. K. Yim, D. A. Paley. “Robust Lyapunov control design for bio-inspired pursuit with autonomous hovercraft,” IEEE Transactions on Control Systems Technology, no. 99, pp. 1-12, 2016. 
+
+ * D. Shishika, N. C. Manoukis, S. Butail, and D. A. Paley. “Male motion coordination in anopheline mating swarms,” Scientific Reports, vol. 4, pp. 1-7, 2014.
+
 
 Refreed Conference Publications
 ------
