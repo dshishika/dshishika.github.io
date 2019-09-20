@@ -23,9 +23,10 @@ Journal Publications
 Refreed Conference Publications
 ------
 
- * <b>D. Shishika</b>, J. Paulos, M. A. Hsieh, and V. Kumar. “Team Composition for Perimeter Defense with Patrollers and Defenders,” <i>Submitted to IEEE Conference on Decision and Control</i>, France, 2019.
+ * <b>D. Shishika</b>, J. Paulos, M. A. Hsieh, and V. Kumar. “Team Composition for Perimeter Defense with Patrollers and Defenders,” <i>Accepted for presentation at IEEE Conference on Decision and Control</i>, France, 2019.
 
- * J. Paulos, S. W. Chen, <b>D. Shishika</b>, and V. Kumar. “Decentralization of Multiagent Policies by Learning What to Communicate,” <i>IEEE International Conference on Robotics and Automation</i>, Montreal, 2019.
+ * J. Paulos, S. W. Chen, <b>D. Shishika</b>, and V. Kumar. 
+ “Decentralization of Multiagent Policies by Learning What to Communicate,” <i>IEEE International Conference on Robotics and Automation</i>, Montreal, 2019.
 
  * <b>D. Shishika</b>, V. Kumar. “Local-game decomposition for multiplayer perimeter-defense problem,” <i>IEEE Conference on Decision and Control</i>, pp. 2093-2100, Florida, 2018.
 
