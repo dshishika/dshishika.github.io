@@ -25,7 +25,7 @@ Journal Publications
  * <b>D. Shishika</b>, J. K. Yim, D. A. Paley. “[Robust Lyapunov control design for bio-inspired pursuit with autonomous hovercraft](https://ieeexplore.ieee.org/abstract/document/7471464),” <i>IEEE Transactions on Control Systems Technology</i>, no. 99, pp. 1-12, 2016. [[DOI](10.1109/TCST.2016.2558538)]
 
  * <b>D. Shishika</b>, N. C. Manoukis, S. Butail, and D. A. Paley. “[Male motion coordination in anopheline mating swarms](https://www.nature.com/articles/srep06318?origin=ppub),” <i>Scientific Reports</i>, vol. 4, pp. 1-7, 2014. [[DOI](https://doi.org/10.1038/srep06318)]
-
+ 
 
 Refreed Conference Publications
 ------
