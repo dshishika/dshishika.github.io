@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dshishika"
+  github           : #"dshishika"
   google_plus      :
   keybase          :
   instagram        :
@@ -116,6 +116,8 @@ author:
   youtube          :
   wikipedia        :
 
+
+extrahead: <meta name="google-site-verification" content="AE0N0Gbxte15D1lCViMID-03Q5EzqQpQuKqYeT6RU_c" />
 
 # Reading Files
 include:
