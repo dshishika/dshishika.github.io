@@ -7,6 +7,8 @@ author_profile: true
 
 Coming soon... 
 
+<video src="/files/LGR_team_defense.mp4" width="1920" height="1080" controls preload></video>
+
 <img src= "/images/foo-bar-identity-th.jpg" alt = "sample image">
 
 <!-- {% if author.googlescholar %}
