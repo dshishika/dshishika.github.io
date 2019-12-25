@@ -17,7 +17,7 @@ I completed my Ph.D. in Aerospace Engineering at the University of Maryland (UMD
 Prior to attending UMD, I completed my B.S. degree at the University of Tokyo in Aerospace Engineering.
 My research interests are in autonomous systems, with a particular focus on multi-agent systems and bio-inspired robotics.
 
-<img src= "/images/quadrotorswarm.pdf" alt = "Quadrotor Swarm">
+<img src= "/images/quadrotorswarm.png" alt = "Quadrotor Swarm">
 
 <!-- A data-driven personal website
 ======
