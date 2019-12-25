@@ -9,12 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<embed src="https://dshishika.github.io/files/automatica_shape.pdf" width="600" height="500"> </embed>
+
+<!-- Education
 ======
 * B.S. in Aerospace Engineering, University of Tokyo, 2012
 * M.S. in Aerospace Engineering, University of Maryland, 2014
 * Ph.D in Aerospace Engineering, University of Maryland, 2017
-
+ -->
 <!-- Work experience
 ======
 * Summer 2015: Research Assistant
