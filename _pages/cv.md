@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://dshishika.github.io/files/automatica_shape.pdf" width="600" height="500"> </embed>
+<embed src="https://dshishika.github.io/files/cv_shishika.pdf" width="600" height="500"> </embed>
 
 <!-- Education
 ======
