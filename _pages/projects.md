@@ -7,7 +7,7 @@ author_profile: true
 
 Coming soon... 
 
-<video src="/files/LGR_team_defense.mp4" width="960" height="540" controls preload></video>
+<video src="/files/LGR_team_defense.mp4" width=100% height=auto controls preload></video>
 
 <img src= "/images/foo-bar-identity-th.jpg" alt = "sample image">
 
