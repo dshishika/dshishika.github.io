@@ -15,6 +15,8 @@ As the large-scale deployment of multiple autonomous agents becomes more practic
 <!-- <video src="/files/LGR_team_defense.mp4" width="480" height="270" controls preload></video> -->
 <iframe src="https://www.youtube.com/embed/6zUPkzh_iPU" width="480" height="270" ></iframe>
 
+## Publications
+* Perimeter defense game 
 
 
 # Bio-inspired Swarm Control
