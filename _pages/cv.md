@@ -16,7 +16,7 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 </iframe>
 
 
-<embed src="https://dshishika.github.io/files/cv_shishika.pdf" width="100%" height="500"> </embed>
+<!-- <embed src="https://dshishika.github.io/files/cv_shishika.pdf" width="100%" height="500"> </embed> -->
 
 <!-- Education
 ======
