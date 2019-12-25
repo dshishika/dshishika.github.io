@@ -30,11 +30,10 @@ teractions. I have studied the mechanism of such local interactions among swarmi
 the insights I gained to design distributed algorithms for cooperative target pursuit. 
 
 ## Mosquito Inspired Swarming and Pursuit
-<iframe src="https://www.youtube.com/embed/Hova4bMiVZg" width="480" height="270" ></iframe>
-
-<!-- ## Team Strategies for Perimeter Defense Game
 <iframe src="https://www.youtube.com/embed/Cnz75WZ88rI" width="480" height="270" ></iframe>
- -->
+
+<!-- <iframe src="https://www.youtube.com/embed/Hova4bMiVZg" width="480" height="270" ></iframe> -->
+
 
 ***
 # Communication and Control for Cooperation
