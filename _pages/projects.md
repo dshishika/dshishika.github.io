@@ -13,12 +13,11 @@ I study scalable methods to analyze and synthesize multi-agent systems with thre
 As the large-scale deployment of multiple autonomous agents becomes more practical, maintaining security against adversarial autonomous swarms becomes important in both civilian and military defense applications. Driven by this motivation, I study multi-player pursuit-evasion games (PEGs), where I developed a decomposition method that reduces a complex problem into smaller tractable pieces.
 
 <!-- <video src="/files/LGR_team_defense.mp4" width="480" height="270" controls preload></video> -->
-<iframe src="https://www.youtube.com/embed/6zUPkzh_iPU" width="480" height="270" ></iframe>
-
 ## Publications on Perimeter Defense Game
 * Decomposition method (circular & polygonal perimeter) [[CDC18](https://doi.org/10.1109/CDC.2018.8618879)]
 * Extension to arbitrary convex shapes [[arXiv](https://arxiv.org/abs/1909.03989)]
-* Team strategies and their optimality [[arXiv](https://arxiv.org/abs/1912.04342)]
+* Team strategies and their optimality [[arXiv](https://arxiv.org/abs/1912.04342)] <iframe src="https://www.youtube.com/embed/6zUPkzh_iPU" width="480" height="270" ></iframe>
+
 
 
 # Bio-inspired Swarm Control
