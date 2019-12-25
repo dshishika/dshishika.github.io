@@ -19,8 +19,8 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
 
-  # - title: "CV"
-  #   url: /cv/
+ - title: "CV"
+   url: https://dshishika.github.io/files/Shishika2019_J4.pdf
     
-  - title: "Guide"
+ - title: "Guide"
     url: /markdown/
