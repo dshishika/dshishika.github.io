@@ -14,11 +14,11 @@ Journal Publications
 
  * <b>D. Shishika</b> and V. Kumar. 
  “Perimeter defense game on arbitrary convex shapes,” 
- <i>Submitted</i>, [[PDF](https://dshishika.github.io/files/automatica_shape.pdf)]
+ <i>Submitted</i>,[[arXiv](https://arxiv.org/abs/1909.03989)] [[PDF](https://dshishika.github.io/files/automatica_shape.pdf)]
 
  * <b>D. Shishika</b>, J. Paulos, and V. Kumar. 
  “Cooperative team strategies for multi-player perimeter defense game,” 
- <i>in revision for Robotics and Automation Letters</i>, [[PDF](https://dshishika.github.io/files/Shishika2019_J4.pdf)]
+ <i>in revision for Robotics and Automation Letters</i>, [[arXiv](https://arxiv.org/abs/1912.04342)]　[[PDF](https://dshishika.github.io/files/Shishika2019_J4.pdf)]
 
  * <b>D. Shishika</b> and D. A. Paley. “[Mosquito-inspired quadrotor swarming and pursuit for cooperative defense against fast intruders](https://link.springer.com/article/10.1007/s10514-018-09827-y),” <i>Autonomous Robots</i>, pp. 1-19, 2019. [[DOI](https://doi.org/10.1007/s10514-018-09827-y)]
 
