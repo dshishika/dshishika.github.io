@@ -8,6 +8,7 @@ author_profile: true
 I study scalable methods to analyze and synthesize multi-agent systems with three specific research thrusts: 1) autonomy in adversarial environments, 2) bio-inspired swarm robotics, and 3) communication & control for collaboration.
 
 
+---
 # Autonomy in Adversarial Environment
 
 As the large-scale deployment of multiple autonomous agents becomes more practical, maintaining security against adversarial autonomous swarms becomes important in both civilian and military defense applications. Driven by this motivation, I study multi-player pursuit-evasion games (PEGs), where I developed a decomposition method that reduces a complex problem into smaller tractable pieces.
@@ -21,6 +22,7 @@ As the large-scale deployment of multiple autonomous agents becomes more practic
 
 
 
+---
 # Bio-inspired Swarm Control
 
 Biological swarms show how complex group-level behaviors can emerge from completely distributed local in-
@@ -33,6 +35,7 @@ the insights I gained to design distributed algorithms for cooperative target pu
 
 
 
+---
 # Communication and Control for Cooperation
 
 Effective interactions between the components of a multi-agent system are essential in maximizing the overall performance. I studied effective communication strategies in terms of how to maintain connectivity and what information to communicate.
