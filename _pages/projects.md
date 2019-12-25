@@ -16,7 +16,9 @@ As the large-scale deployment of multiple autonomous agents becomes more practic
 <iframe src="https://www.youtube.com/embed/6zUPkzh_iPU" width="480" height="270" ></iframe>
 
 ## Publications
-* Perimeter defense game 
+* Decomposition method [[CDC18](10.1109/CDC.2018.8618879)]
+* Extension to arbitrary shape [[arXiv](https://arxiv.org/abs/1909.03989)]
+* Team strategies and optimality [[arXiv](https://arxiv.org/abs/1912.04342)]
 
 
 # Bio-inspired Swarm Control
