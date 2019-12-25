@@ -20,7 +20,7 @@ main:
 #    url: /year-archive/
 
  - title: "CV"
-   url: https://dshishika.github.io/files/Shishika2019_J4.pdf
+   url: /cv/
     
  - title: "Guide"
     url: /markdown/
