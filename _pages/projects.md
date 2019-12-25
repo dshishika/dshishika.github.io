@@ -15,10 +15,10 @@ As the large-scale deployment of multiple autonomous agents becomes more practic
 <!-- <video src="/files/LGR_team_defense.mp4" width="480" height="270" controls preload></video> -->
 <iframe src="https://www.youtube.com/embed/6zUPkzh_iPU" width="480" height="270" ></iframe>
 
-## Publications
-* Decomposition method [[CDC18](https://doi.org/10.1109/CDC.2018.8618879)]
-* Extension to arbitrary shape [[arXiv](https://arxiv.org/abs/1909.03989)]
-* Team strategies and optimality [[arXiv](https://arxiv.org/abs/1912.04342)]
+## Publications on Perimeter Defense Game
+* Decomposition method (circular & polygonal perimeter) [[CDC18](https://doi.org/10.1109/CDC.2018.8618879)]
+* Extension to arbitrary convex shapes [[arXiv](https://arxiv.org/abs/1909.03989)]
+* Team strategies and their optimality [[arXiv](https://arxiv.org/abs/1912.04342)]
 
 
 # Bio-inspired Swarm Control
