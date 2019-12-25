@@ -7,11 +7,11 @@ author_profile: true
 
 
 Mulit-player Pursuit Evasion Games
-<video src="/files/LGR_team_defense.mp4" width="480" height="270" controls preload></video>
+<iframe src="/files/LGR_team_defense.mp4" width="480" height="270" controls preload></iframe>
 
 
 Bio-inspired Swarming and Pursuit
-<video src="https://www.youtube.com/watch?v=Cnz75WZ88rI" width="480" height="270" controls preload></video>
+<iframe src="https://www.youtube.com/embed/Cnz75WZ88rI" width="480" height="270" ></iframe>
 
 <!-- <img src= "/images/foo-bar-identity-th.jpg" alt = "sample image"> -->
 
