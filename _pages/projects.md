@@ -38,6 +38,7 @@ Effective interactions between the components of a multi-agent system are essent
 
 ## Connectivity Maintenance for Resilient Consensus
 
+<iframe src="https://www.youtube.com/embed/dj2afGyhBB4" width="480" height="270" ></iframe>
 
 ## Learning What to Communicate
 
