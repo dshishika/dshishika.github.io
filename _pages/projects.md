@@ -44,7 +44,10 @@ Effective interactions between the components of a multi-agent system are essent
 
 <iframe src="https://www.youtube.com/embed/dj2afGyhBB4" width="480" height="270" ></iframe>
 
-## Learning What to Communicate
+## Learning Communication Strategies for Decentralized Control
+
+<iframe src="https://www.youtube.com/embed/bRppMwGSoWk" width="480" height="270" ></iframe>
+
 
 <!-- <img src= "/images/foo-bar-identity-th.jpg" alt = "sample image"> -->
 
