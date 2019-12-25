@@ -6,11 +6,15 @@ author_profile: true
 ---
 
 
-Mulit-player Pursuit Evasion Games
-<iframe src="/files/LGR_team_defense.mp4" width="480" height="270" controls preload></iframe>
+Autonomy in Adversarial Environment
+=====
+<!-- <video src="/files/LGR_team_defense.mp4" width="480" height="270" controls preload></video> -->
+<iframe src="https://www.youtube.com/embed/6zUPkzh_iPU" width="480" height="270" ></iframe>
 
 
-Bio-inspired Swarming and Pursuit
+
+Bio-inspired Swarm Control
+=====
 <iframe src="https://www.youtube.com/embed/Cnz75WZ88rI" width="480" height="270" ></iframe>
 
 <!-- <img src= "/images/foo-bar-identity-th.jpg" alt = "sample image"> -->
