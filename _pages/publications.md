@@ -22,7 +22,7 @@ Journal Publications
 
  * <b>D. Shishika</b> and D. A. Paley. “[Mosquito-inspired quadrotor swarming and pursuit for cooperative defense against fast intruders](https://link.springer.com/article/10.1007/s10514-018-09827-y),” <i>Autonomous Robots</i>, pp. 1-19, 2019. [[DOI](https://doi.org/10.1007/s10514-018-09827-y)]
 
- * <b>D. Shishika</b>, J. K. Yim, D. A. Paley. “[Robust Lyapunov control design for bio-inspired pursuit with autonomous hovercraft](https://ieeexplore.ieee.org/abstract/document/7471464),” <i>IEEE Transactions on Control Systems Technology</i>, no. 99, pp. 1-12, 2016. [[DOI](10.1109/TCST.2016.2558538)]
+ * <b>D. Shishika</b>, J. K. Yim, D. A. Paley. “[Robust Lyapunov control design for bio-inspired pursuit with autonomous hovercraft](https://ieeexplore.ieee.org/abstract/document/7471464),” <i>IEEE Transactions on Control Systems Technology</i>, no. 99, pp. 1-12, 2016. [[DOI](https://doi.org/10.1109/TCST.2016.2558538)]
 
  * <b>D. Shishika</b>, N. C. Manoukis, S. Butail, and D. A. Paley. “[Male motion coordination in anopheline mating swarms](https://www.nature.com/articles/srep06318?origin=ppub),” <i>Scientific Reports</i>, vol. 4, pp. 1-7, 2014. [[DOI](https://doi.org/10.1038/srep06318)]
  
@@ -40,7 +40,7 @@ Refreed Conference Publications
 
  * <b>D. Shishika</b>, V. Kumar. 
  “[Local-game decomposition for multiplayer perimeter-defense problem](https://ieeexplore.ieee.org/abstract/document/8618879),” 
- <i>IEEE Conference on Decision and Control</i>, pp. 2093-2100, Florida, 2018. [[DOI](10.1109/CDC.2018.8618879)]
+ <i>IEEE Conference on Decision and Control</i>, pp. 2093-2100, Florida, 2018. [[DOI](https://doi.org/10.1109/CDC.2018.8618879)]
 
  * <b>D. Shishika</b>, K. Sherman and D. A. Paley. 
  “[Competing swarms of autonomous vehicles: intruders versus guardians](https://asmedigitalcollection.asme.org/DSCC/proceedings-abstract/DSCC2017/58288/V002T14A006/230298),” 
