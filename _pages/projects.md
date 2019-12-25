@@ -37,6 +37,11 @@ the insights I gained to design distributed algorithms for cooperative target pu
 
 Effective interactions between the components of a multi-agent system are essential in maximizing the overall performance. I studied effective communication strategies in terms of how to maintain connectivity and what information to communicate.
 
+## Connectivity Maintenance for Resilient Consensus
+
+
+## Learning What to Communicate
+
 <!-- <img src= "/images/foo-bar-identity-th.jpg" alt = "sample image"> -->
 
 <!-- {% if author.googlescholar %}
