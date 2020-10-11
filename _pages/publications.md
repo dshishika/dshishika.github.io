@@ -18,7 +18,7 @@ Journal Publications
 
  * <b>D. Shishika</b>, J. Paulos, and V. Kumar. 
  “Cooperative team strategies for multi-player perimeter defense game,” 
- <i>in revision for Robotics and Automation Letters</i>, [[arXiv](https://arxiv.org/abs/1912.04342)] [[PDF](https://dshishika.github.io/files/Shishika2019_J4.pdf)]
+ <i>Robotics and Automation Letters</i>, 2020, [[arXiv](https://arxiv.org/abs/1912.04342)] [[PDF](https://dshishika.github.io/files/Shishika2019_J4.pdf)]
 
  * <b>D. Shishika</b> and D. A. Paley. “[Mosquito-inspired quadrotor swarming and pursuit for cooperative defense against fast intruders](https://link.springer.com/article/10.1007/s10514-018-09827-y),” <i>Autonomous Robots</i>, pp. 1-19, 2019. [[DOI](https://doi.org/10.1007/s10514-018-09827-y)]
 
