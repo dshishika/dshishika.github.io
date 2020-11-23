@@ -6,8 +6,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+redirect_to:
+  http://shishika.com/
 ---
-
 
 I am currently a post-doctoral researcher in the Department of Mechanical Engineering and Applied Mechanics 
 at the University of Pennsylvania (UPenn), working with Prof. Vijay Kumar.
