@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 redirect_to:
-  http://shishika.com/
+  http://shishika.com/publications/
 ---
 
 {% if author.googlescholar %}
