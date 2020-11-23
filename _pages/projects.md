@@ -3,6 +3,8 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
+redirect_to:
+  http://shishika.com/
 ---
 
 I study scalable methods to analyze and synthesize multi-agent systems with three specific research thrusts: 1) autonomy in adversarial environments, 2) bio-inspired swarm robotics, and 3) communication & control for collaboration.
